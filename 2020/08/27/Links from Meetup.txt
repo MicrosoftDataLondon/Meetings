@@ -1,0 +1,30 @@
+Thanks for coming everyone - there were a few links thrown out during the meetup. See below: 
+
+Tech Reference: 
+https://azure.microsoft.com/en-gb/blog/introducing-the-microsoft-azure-wellarchitected-framework/ 
+https://delta.io/ 
+
+Community Events: 
+www.newstarsofdata.com/ 
+www.dataweekender.com 
+www.sqlbits.com 
+
+PASS Summit Discount: LGDIS00JH 
+
+https://databricks.com/product/faq/community-edition 
+
+Dustin Vannoy: Here are the links I had at the end of the presentation: 
+
+Notebooks from demos: https://github.com/datakickstart/databricks-notebooks 
+
+Pluralsight Databricks + PySpark Training: 
+https://app.pluralsight.com/channels/details/0418df96-d33b-43bc-8a77-1d437d3c53e2?s=1 
+
+LinkedIn Learning: https://www.linkedin.com/learning/apache-spark-essential-training 
+
+My YouTube Data Lake and Spark intros: 
+https://youtu.be/YOu2OZ2Y2mI 
+https://youtu.be/Ud6luYCkkMk 
+
+More links at bottom of this blog post: 
+https://dustinvannoy.com/2020/04/26/journey-of-a-data-engineer-part-2/ 
